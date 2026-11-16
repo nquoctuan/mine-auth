@@ -1,0 +1,17 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+android/local.properties
+android/.gradle/
+android/key.properties
+*.jks
+*.keystore
+# Khong commit OAuth client that len git cong khai
+lib/oauth_config.local.dart
